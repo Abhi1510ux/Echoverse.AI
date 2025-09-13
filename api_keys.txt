@@ -1,0 +1,7 @@
+# EchoVerse Pro - API Keys Configuration
+# Paste your Gemini API key below
+# Keep this file secure and don't share it
+
+# Google Gemini API Key (Required - get from: https://makersuite.google.com/app/apikey)
+# Used for both text enhancement AND intelligent audio generation
+GEMINI_API_KEY=AIzaSyBEK_xxcNBWrF2vVQhG0LspfBrlKYVFOoQ
